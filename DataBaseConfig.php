@@ -10,10 +10,10 @@ class DataBaseConfig
     public function __construct()
     {
 
-        $this->servername = 'sql209.epizy.com';
-        $this->username = 'epiz_28913994';
-        $this->password = 'wYWp4hGNC2';
-        $this->databasename = 'epiz_28913994_app';
+        $this->servername = 'sql6.freesqldatabase.com';
+        $this->username = 'sql6419845';
+        $this->password = 'HvkBNrtlXx';
+        $this->databasename = 'sql6419845';
 
     }
 }
